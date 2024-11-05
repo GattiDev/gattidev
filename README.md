@@ -1,4 +1,23 @@
-## Hi there 👋
+# ![https://gattidev.com](./gattidev_emote.png) Hola, mi nombre es Ezequiel Gatti 👋
+### Freelance full-stack developer
+
+![https://github.com/mouredev](./gattidev_github_profile.jpg)
+
+Soy Analista de Sistemas desde 2020.
+
+Tuve que conocer y aprender las partes de la programación para poder obtener el resultado que quería.
+Cada día me perfecciono y realizo cursos para poder conocer lenguajes nuevos y que me permitan realizar un sitio web más fluido y más amigable para mis usuarios. Nunca hay que dejar de aprender porque este rubro es muy amplio y hay muchas cosas para aprender.
+
+Al fín, soy un desarrollador, que le gusta aprender muchas cosas nuevas.
+
+Les compart@ [GattiDev](https://gattidev.com) para que puedan ver mis proyectos.
+
+
+## Contacto:
+
+[![LinkedIn](https://www.linkedin.com/in/ezequiel-gatti-524792242/)](https://www.linkedin.com/in/ezequiel-gatti)
+[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://gattidev.com)
+
 
 <!--
 **GattiDev/gattidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
