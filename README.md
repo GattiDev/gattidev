@@ -15,8 +15,8 @@ Les compart@ [GattiDev](https://gattidev.com) para que puedan ver mis proyectos.
 
 ## Contacto:
 
-[![LinkedIn](https://www.linkedin.com/in/ezequiel-gatti-524792242/)](https://www.linkedin.com/in/ezequiel-gatti)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://gattidev.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ezequiel_Gatti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ezequiel-gatti-524792242/)
+[![Web](https://img.shields.io/badge/Web-GattiDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://gattidev.com)
 
 
 <!--
