@@ -1,7 +1,7 @@
 # ![https://gattidev.com](./gattidev_emote.png) Hola, mi nombre es Ezequiel Gatti 👋
 ### Freelance full-stack developer
 
-![https://github.com/mouredev](./gattidev_github_profile.jpg)
+![https://github.com/gattidev](./gattidev_github_profile.jpg)
 
 Soy Analista de Sistemas desde 2020.
 
