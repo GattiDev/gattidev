@@ -100,10 +100,10 @@ Actualmente curso un **Máster en Desarrollo con Inteligencia Artificial** (BIG 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GattiDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GattiDev GitHub stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GattiDev&theme=tokyonight&hide_border=true" alt="GattiDev streak stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=GattiDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GattiDev GitHub stats" height="165" />
+<img src="https://streak-stats.demolab.com/?user=GattiDev&theme=tokyonight&hide_border=true" alt="GattiDev streak stats" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GattiDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GattiDev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" height="165" />
 
 </div>
 
