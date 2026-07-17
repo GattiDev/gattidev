@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GattiDev/GattiDev/main/assets/banner.png" alt="GattiDev banner" width="100%" />
+<img src="./assets/banner.jpg" alt="GattiDev banner" width="100%" />
 
-<img src="https://raw.githubusercontent.com/GattiDev/GattiDev/main/assets/logo-transparent.png" alt="GattiDev logo" width="120" />
+<img src="./assets/logo.png" alt="GattiDev logo" width="110" />
 
 # Ezequiel Gatti — GattiDev
 
@@ -10,17 +10,21 @@
 
 Software a medida · Desarrollo Web · Automatización · IA aplicada
 
+📍 Junín, Buenos Aires, Argentina · 🟢 Disponible para proyectos freelance
+
 [![Email](https://img.shields.io/badge/Email-gattidev323%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gattidev323@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ezequiel%20Gatti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-gatti-524792242/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-gattidev.com-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://gattidev.com)
-[![Junín](https://img.shields.io/badge/Buenos%20Aires-Jun%C3%ADn%2C%20Argentina-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](https://gattidev.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gattidev.com-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://gattidev.com/Prueba/Portfolio-Ezequiel/ofi/)
+[![CV](https://img.shields.io/badge/Descargar-CV-2E7D32?style=for-the-badge&logo=readdotcv&logoColor=white)](https://gattidev.com/Prueba/Portfolio-Ezequiel/ofi/cv/ezequiel-gatti-cv.pdf)
 
 </div>
 
 <p align="center">
   <a href="#sobre-mi">Sobre mí</a> ·
+  <a href="#servicios">Servicios</a> ·
   <a href="#stack">Stack</a> ·
   <a href="#proyectos">Proyectos</a> ·
+  <a href="#testimonios">Testimonios</a> ·
   <a href="#estadisticas">Estadísticas</a> ·
   <a href="#formacion">Formación</a> ·
   <a href="#contacto">Contacto</a>
@@ -32,12 +36,26 @@ Software a medida · Desarrollo Web · Automatización · IA aplicada
 
 Soy **Analista de Sistemas**, graduado en el I.S.F.D. y T. N.º 20 de Junín (2020). Arranqué mi carrera en **CANDS** como Programador de Mantenimiento con Progress 4GL, y desde 2021 trabajo como **Full-Stack Developer freelance**, construyendo sitios web, sistemas de gestión y APIs a medida para empresas, emprendedores y profesionales.
 
-Actualmente curso un **Máster en Desarrollo con Inteligencia Artificial** (BIG School, Barcelona) para integrar IA en proyectos reales.
+Me especializo en soluciones digitales que ayudan a mis clientes a automatizar procesos, mejorar su presencia online y escalar sus negocios, con código limpio, buenas prácticas y foco en resultados concretos. Actualmente curso un **Máster en Desarrollo con Inteligencia Artificial** (BIG School, Barcelona) para integrar IA en proyectos reales.
 
 - 🔭 Trabajando en **Stokira**, un SaaS de gestión de inventario con Laravel 13 + PHP 8.3
-- 🌱 Sumando IA aplicada a desarrollo de software
-- 💼 Disponible para proyectos freelance — primera consulta sin cargo
-- 📫 Contacto: **gattidev323@gmail.com**
+- 🌱 Sumando IA aplicada al desarrollo de software (agentes, automatización, productos con IA generativa)
+- 💼 Disponible para proyectos freelance — **primera consulta sin cargo**
+- ⚡ Respondo en menos de 24 horas
+- 📫 Contacto directo: **gattidev323@gmail.com**
+
+---
+
+## <a id="servicios"></a>💼 ¿En qué puedo ayudarte?
+
+Acompaño cada etapa del proyecto, del concepto al lanzamiento, con soluciones completas y orientadas a resultados.
+
+| Servicio | Detalle |
+|---|---|
+| 🖥️ **Desarrollo Web** | Aplicaciones full-stack, desde la interfaz hasta la base de datos. Apps con React/TypeScript, APIs REST con PHP, Node.js o Python |
+| 🎯 **Landing Pages** | Páginas diseñadas para convertir visitantes en clientes: rápidas, cuidadas y adaptadas a cualquier dispositivo |
+| 🔌 **APIs RESTful** | Diseño e implementación de APIs robustas con autenticación JWT y documentación incluida |
+| ⚙️ **Sistemas a Medida** | Gestión, inventario, turnos o cualquier proceso interno, con panel de administración, reportes y estadísticas |
 
 ---
 
@@ -81,18 +99,34 @@ Actualmente curso un **Máster en Desarrollo con Inteligencia Artificial** (BIG 
 
 | Proyecto | Descripción | Stack | Link |
 |---|---|---|---|
-| **Stokira** ⭐ | SaaS de gestión de inventario en desarrollo, con cotización de dólar en tiempo real vía API externa | Laravel 13 · PHP 8.3 · MySQL · Blade · Vite | [GitHub](https://github.com/GattiDev) |
-| **Sistema de Gestión de Inventario** ⭐ | Control de stock en tiempo real, reportes en PDF (TCPDF), AJAX y soporte PWA offline | PHP MVC · MySQL · JavaScript · PWA | [GitHub](https://github.com/GattiDev/Gestion_de_Inventario) |
-| **Hotel Avenida** | Sistema de gestión hotelera: reservas online, administración de habitaciones, notificaciones en tiempo real | PHP MVC · MySQL · jQuery | [Demo](https://proyect-hotel-avenida.gattidev.com/) · [GitHub](https://github.com/GattiDev/Hotel_Avenida) |
-| **Jose Genna Repuestos SRL** | Catálogo online con carrito de compras y pedidos automáticos por email | PHP · PHPMailer · jQuery | [Demo](https://proyect-jose-genna-repuestos.gattidev.com/) |
-| **Ecografía Junín** | Portal médico con sistema de turnos online y diseño responsive multi-breakpoint | PHP · JavaScript · jQuery | [GitHub](https://github.com/GattiDev/Ecografia_Junin) |
-| **Francisco Zeni Tango** | Sitio profesional para bailarín internacional: parallax, traducción ES/EN, lightbox | TypeScript · Tailwind · Bootstrap | [GitHub](https://github.com/GattiDev) |
-| **Invitación Digital — Boda** | Plataforma para evento: agenda, ubicación interactiva, transmisión en vivo, galería | TypeScript · Node.js | [Demo](https://proyect-inv-dig-boda.gattidev.com/casamiento.php) · [GitHub](https://github.com/GattiDev/Casamiento-1) |
-| **Invitación Digital — Quince** | Confirmación de asistencia online y panel de administración de invitados en tiempo real | PHP · MySQL · JavaScript | [GitHub](https://github.com/GattiDev) |
-| **Visualizador de Eventos con IA** | Análisis y visualización de eventos con integración de IA, cobertura de tests | Python · IA · pytest | [GitHub](https://github.com/GattiDev/Visualizador-de-Eventos-con-IA) |
-| **Gestión de Tareas Inteligentes** | Priorización y gestión automática de tareas con IA | Python · IA · pytest | [GitHub](https://github.com/GattiDev/Gestion-de-Tareas-Inteligentes) |
+| **Saas Stokira** ⭐ | SaaS de gestión de inventario en desarrollo, con landing page, formulario de contacto y cotización del dólar en tiempo real vía API externa | Laravel 13 · PHP 8.3 · MySQL · Blade · Vite | [Demo](https://stokira.gattidev.com/) · [GitHub](https://github.com/GattiDev/Saas-Stokira) |
+| **Stokira — La evolución del stock** ⭐ | Sistema full-stack MVC: control de stock en tiempo real, movimientos de inventario, reportes en PDF (TCPDF), peticiones AJAX y soporte PWA offline | PHP MVC · MySQL · JavaScript · PWA | [GitHub](https://github.com/GattiDev/Stokira-La-evolucion-del-stock) |
+| **Hotel Avenida** | Sistema de gestión hotelera con arquitectura MVC: reservas online, administración de habitaciones y notificaciones en tiempo real | PHP MVC · MySQL · jQuery | [Demo](https://proyect-hotel-avenida.gattidev.com/) · [GitHub](https://github.com/GattiDev/Hotel-Avenida) |
+| **Jose Genna Repuestos SRL** | Catálogo online con carrito de compras, lista de precios actualizable y pedidos automáticos por email con PHPMailer | PHP · PHPMailer · jQuery | [Demo](https://proyect-jose-genna-repuestos.gattidev.com/) · [GitHub](https://github.com/GattiDev/Jose-Genna-Repuestos) |
+| **Ecografías Junín** | Portal médico con sistema de turnos online, cuenta regresiva para próximas citas y diseño responsive multi-breakpoint | PHP · JavaScript · jQuery | [Demo](https://proyect-ecografias-junin.gattidev.com/) · [GitHub](https://github.com/GattiDev/Sistema-gestion-Ecografia) |
+| **Francisco Zeni Tango** | Sitio profesional para bailarín internacional: parallax, partículas animadas, traducción ES/EN y lightbox en galería | TypeScript · Tailwind · Bootstrap | [Demo](https://proyect-fran-tango.gattidev.com/) · [GitHub](https://github.com/GattiDev/spa-para-tango) |
+| **Invitación Digital — Boda** | Plataforma para evento: agenda del día, ubicación interactiva, transmisión en vivo y galería de fotos | TypeScript · Node.js | [Demo](https://proyect-inv-dig-boda.gattidev.com/) · [GitHub](https://github.com/GattiDev/Invitacion-Digital-para-Boda) |
+| **Invitación Digital — Quince** | Confirmación de asistencia online, galería de fotos y panel de administración de invitados en tiempo real | PHP · MySQL · JavaScript | [Demo](https://proyect-inv-dig-quince.gattidev.com) · [GitHub](https://github.com/GattiDev/Invitacion-Digital-para-Quince) |
+| **Visualizador de Eventos con IA** | Aplicación con integración de IA para análisis y visualización de eventos, con cobertura de tests unitarios | Python · IA · pytest | [GitHub](https://github.com/GattiDev/evento-ai) |
+| **Gestión de Tareas Inteligentes** | Priorización y gestión automática de tareas con IA, con cobertura de tests unitarios | Python · IA · pytest | [GitHub](https://github.com/GattiDev/taskmanager) |
 
-📂 Ver el portfolio completo en **[gattidev.com](https://gattidev.com)**
+📂 Ver el portfolio completo en **[gattidev.com](https://gattidev.com/Prueba/Portfolio-Ezequiel/ofi/)**
+
+---
+
+## <a id="testimonios"></a>💬 Lo que dicen mis clientes
+
+> ★★★★★ *"Ezequiel entendió exactamente lo que necesitábamos. El sitio quedó muy prolijo, cargó rápido y los huéspedes nos preguntan cómo reservar desde ahí."*
+> — **Hotel Avenida**, Junín, B.A.
+
+> ★★★★★ *"El sistema de inventario nos cambió el día a día. Antes todo en papel, ahora tenemos el stock en tiempo real. Muy recomendable."*
+> — **Jose Genna Repuestos SRL**, Junín, B.A.
+
+> ★★★★★ *"El portal para pacientes funcionó perfecto. Los turnos online redujeron muchísimo las llamadas al consultorio. Trabajo serio y profesional."*
+> — **Clara Capponi**, Ecografía Junín
+
+> ★★★★★ *"Excelente trabajo, en poco tiempo superó mis expectativas. Simplemente gracias."*
+> — **Laura Masino**, Invitación Digital para Quince
 
 ---
 
@@ -109,12 +143,26 @@ Actualmente curso un **Máster en Desarrollo con Inteligencia Artificial** (BIG 
 
 ---
 
-## <a id="formacion"></a>🎓 Formación
+## <a id="formacion"></a>🎓 Formación y experiencia
 
-- **Máster en Desarrollo con Inteligencia Artificial** — BIG School, Barcelona *(en curso)*
-- **Tecnicatura Superior en Análisis de Sistemas** — I.S.F.D. y T. N.º 20, Junín (2020)
+**Educación**
+- **Máster en Desarrollo con Inteligencia Artificial** — BIG School, Barcelona *(en curso, 2026)*
+- **Tecnicatura Superior en Análisis, Desarrollo y Programación de Aplicaciones** — I.S.F.D. y T. N.º 20, Junín (2020)
 - Curso de Iniciación al Desarrollo con IA (2025)
-- Programador de Mantenimiento — CANDS, Progress 4GL (2020)
+
+**Experiencia laboral**
+
+`2021 — Presente` · **Freelance** · Desarrollador Web Full-Stack
+- Desarrollo de sitios corporativos, portfolios, landing pages y aplicaciones web a medida
+- Diseño e implementación de sistemas de gestión, inventario y turnos adaptados a cada negocio
+- Integración de bases de datos, APIs, paneles administrativos y funcionalidades personalizadas
+- Gestión de hosting, dominios, correos corporativos y copias de seguridad en producción
+- Mantenimiento continuo, optimización de rendimiento y soporte técnico a clientes activos
+
+`2020` · **CANDS** · Programador de Mantenimiento (Progress 4GL)
+- Mantenimiento correctivo y preventivo de aplicaciones empresariales
+- Modificación y optimización de lógicas de negocio, validaciones y flujos del sistema
+- Análisis, diagnóstico y resolución de errores en entornos de producción
 
 ---
 
@@ -122,12 +170,14 @@ Actualmente curso un **Máster en Desarrollo con Inteligencia Artificial** (BIG 
 
 <div align="center">
 
-¿Tenés un proyecto en mente? **Primera consulta sin cargo.**
+¿Tenés un proyecto en mente? **Primera consulta sin cargo.** Respondo en menos de 24 horas.
 
 [![Email](https://img.shields.io/badge/Escribime-gattidev323%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gattidev323@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Conectemos-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-gatti-524792242/)
-[![Portfolio](https://img.shields.io/badge/Ver%20Portfolio-gattidev.com-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://gattidev.com)
+[![Portfolio](https://img.shields.io/badge/Ver%20Portfolio-gattidev.com-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://gattidev.com/Prueba/Portfolio-Ezequiel/ofi/)
 
-<img src="https://raw.githubusercontent.com/GattiDev/GattiDev/main/assets/footer-logo.png" alt="GattiDev" width="100" />
+<img src="./assets/footer.png" alt="GattiDev" width="100" />
+
+© Ezequiel Gatti — GattiDev · Junín, Buenos Aires
 
 </div>
